@@ -13,7 +13,7 @@ The forty credits can be spread across two-to-four modules in the final year. Th
 |-----------------------------|--------------------------------------------------------------------------------|
 | Two Twenty Credit Optionals | 40 credits consisting of two twenty credit modules.                            |
 | One Twenty Credit Optional  | 40 credits consisting of two twenty credit modules and two ten credit modules. |
-| Four Ten Credit Optionals   | 40 credits consisting of four ten credit modules                               |
+| Four Ten Credit Optionals   | 40 credits consisting of four ten credit modules.                              |
 
 ## Personalizing 
 These sheets are designed for third-year students in the year 2018/2019. This consisted of twenty credits of optional modules in the second year, and forty credits of optional modules in the third year.
@@ -63,4 +63,4 @@ becomes:
 
 ## Future Work
 - Automatic calculation of what average you need in the rest of your assignments to achieve a first/higher second. (You can work this out yourself by putting in dummy values into the other assignments and seeing what the total becomes).
-- Using this as a base for a fully-fledged web application, making easier for users to make their personalizations.
+- Using this as a base for a fully-fledged web application, making it easier for users to make their personalizations.
