@@ -4,8 +4,16 @@ Grade calculating spreadsheets. Find out your current grade to help you set aims
 ## Prerequisites 
 Basic Excel knowledge will be required for any personalizations to be made.
 
-## Optional Modules
+## Different Sheets and Optional Modules
 The forty credits can be spread across two-to-four modules in the final year. Three spreadsheets have been provided for different module configurations. (One twenty credit module and two ten credit modules etc).
+
+### List of sheets
+
+| Spreadsheet Name            | Description                                                                    |
+|-----------------------------|--------------------------------------------------------------------------------|
+| Two Twenty Credit Optionals | 40 credits consisting of two twenty credit modules.                            |
+| One Twenty Credit Optional  | 40 credits consisting of two twenty credit modules and two ten credit modules. |
+| Four Ten Credit Optionals   | 40 credits consisting of four ten credit modules                               |
 
 ## Personalizing 
 These sheets are designed for third-year students in the year 2018/2019. This consisted of twenty credits of optional modules in the second year, and forty credits of optional modules in the third year.
@@ -35,8 +43,8 @@ Adding an extra assignment row is slightly trickier. There are a couple of extra
 
 - Add a new assignment row. (Copy a current row)
 - Modify the percentages based on what each assignment is worth. Total for the module should be 100%.
-- Ensure the formula in the *Potential Percent of Year* column is point to the correct module in the modules grid to the side if you are using the *by Assignment* sheet.
-- Ensure the final total is including your new module.
+- Ensure the formula in the *Potential Percent of Year* column is pointing to the correct module in the modules grid to the side if you are using the *by Assignment* sheet.
+- Ensure the final total is including your new assignment.
 
 e.g.
 
