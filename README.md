@@ -4,6 +4,8 @@ Grade calculating spreadsheets. Find out your current grade to help you set aims
 ## Prerequisites 
 Basic Excel knowledge will be required for any personalizations to be made.
 
+These sheets are designed for third-year students in the year 2018/2019. This consisted of twenty credits of optional modules in the second year, and forty credits of optional modules in the third year. Placement Learning grades are not included in these spreadsheets because no-one seems to have concrete evidence on how this particular module contributes towards the degree mark. (Please let me know if you find some :-) ).
+
 ## Different Sheets and Optional Modules
 The forty credits can be spread across two-to-four modules in the final year. Three spreadsheets have been provided for different module configurations. (One twenty credit module and two ten credit modules etc).
 
@@ -16,8 +18,6 @@ The forty credits can be spread across two-to-four modules in the final year. Th
 | Four Ten Credit Optionals   | 40 credits consisting of four ten credit modules.                              |
 
 ## Personalizing 
-These sheets are designed for third-year students in the year 2018/2019. This consisted of twenty credits of optional modules in the second year, and forty credits of optional modules in the third year.
-
 There are two sheets in each spreadsheet, one for calculating grades by module mark, and one that allows you to specify marks at an assignment level. Some personalizations will likely be required when using the *by assignment* sheet.
 
 These sheets by default assume each optional module has two assignments worth 50% each. This will unlikely be perfect for all cases and will need to be changed to suit any personal requirements.
