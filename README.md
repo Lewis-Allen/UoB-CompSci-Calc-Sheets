@@ -6,6 +6,9 @@ Basic Excel knowledge will be required for any personalizations to be made.
 
 These sheets are designed for third-year students in the year 2018/2019. This consisted of twenty credits of optional modules in the second year, and forty credits of optional modules in the third year. Placement Learning grades are not included in these spreadsheets because no-one seems to have concrete evidence on how this particular module contributes towards the degree mark. (Please let me know if you find some).
 
+## Usage
+Download the most suitable spreadsheet for you and make any required personalizations (See below for explanations on the different spreadsheets and possible personalizations). Finally, add your marks to the *mark* columns in your chosen spreadsheet to see your current totals.
+
 ## Different Sheets and Optional Modules
 The forty credits can be spread across two-to-four modules in the final year. Three spreadsheets have been provided for different module configurations. (One twenty credit module and two ten credit modules etc).
 
