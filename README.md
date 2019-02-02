@@ -1,10 +1,10 @@
-# University of Brighton - Degree Calc
+# University of Brighton Computer Science - Degree Calculation Spreadsheets
 Grade calculating spreadsheets. Find out your current grade to help you set aims to achieve the degree classification you want.
 
 ## Prerequisites 
 Basic Excel knowledge will be required for any personalizations to be made.
 
-These sheets are designed for third-year students in the year 2018/2019. This consisted of twenty credits of optional modules in the second year, and forty credits of optional modules in the third year. Placement Learning grades are not included in these spreadsheets because no-one seems to have concrete evidence on how this particular module contributes towards the degree mark. (Please let me know if you find some :-) ).
+These sheets are designed for third-year students in the year 2018/2019. This consisted of twenty credits of optional modules in the second year, and forty credits of optional modules in the third year. Placement Learning grades are not included in these spreadsheets because no-one seems to have concrete evidence on how this particular module contributes towards the degree mark. (Please let me know if you find some).
 
 ## Different Sheets and Optional Modules
 The forty credits can be spread across two-to-four modules in the final year. Three spreadsheets have been provided for different module configurations. (One twenty credit module and two ten credit modules etc).
