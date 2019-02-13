@@ -37,7 +37,7 @@ into this:
 
 | Module                        | Assignment/Exam | Percentage of Module | Potential Percent of Year | Mark | Percent Earned | Final Degree Contribution |
 |-------------------------------|-----------------|----------------------|---------------------------|------|----------------|---------------------------|
-| Optional 10 Credit Module Two | Assignment One  | 100.00%              | 4.17                      |      | 0.00           | 0.00                      |
+| Optional 10 Credit Module Two | Assignment One  | 100.00%              | 8.33                      |      | 0.00           | 0.00                      |
 
 A row has been deleted, percentage worth changed. The rest will auto calculate.
 
